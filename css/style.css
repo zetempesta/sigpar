@@ -104,10 +104,7 @@ nav {
 }
 #logo img, .footer-title img {
 
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+	background-color: rgba(255,255,255,0.6);
     width: 280px;
 }
 
