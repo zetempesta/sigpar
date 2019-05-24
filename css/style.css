@@ -376,7 +376,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner {
-    background: url(../images/banner.jpg)no-repeat center;
+    background: url(/webrunstudio/sigpar/images/banner.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1253,7 +1253,7 @@ a.move-top span{
 		letter-spacing: 1px;
 	}
 	.banner {
-		background: url(../images/banner.jpg)no-repeat -230px 0px;
+		background: url(/webrunstudio/sigpar/images/banner.jpg)no-repeat -230px 0px;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
