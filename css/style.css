@@ -4,6 +4,11 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+.sigpar_login {
+    color: #fff;
+}
+
 html,
 body {
     margin: 0;
@@ -376,7 +381,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner {
-    background: url(/webrunstudio/sigpar/images/banner.jpg)no-repeat center;
+    background: url(https://raw.githubusercontent.com/zetempesta/sigpar/master/images/banner.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -463,7 +468,7 @@ h4.b-w3ltxt {
 }
 .padding {
     padding: 2.5em;
-	background: #fff;
+    background: rgba(255,255,255,0.3);
 }
 .form-style-w3ls span {
     font-size: 13px;
@@ -1119,7 +1124,7 @@ a.move-top span{
 		padding: 0vw 0vw 10vw 8vw;
 	} 
 	.banner {
-		background: url(/webrunstudio/sigpar/images/banner.jpg)no-repeat -130px 0px;
+		background: url(https://raw.githubusercontent.com/zetempesta/sigpar/master/images/banner.jpg)no-repeat -130px 0px;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
