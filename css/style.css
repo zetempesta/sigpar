@@ -103,7 +103,7 @@ nav {
 	padding: 0;
 }
 #logo img, .footer-title img {
-    
+
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -468,7 +468,7 @@ h4.b-w3ltxt {
 }
 .padding {
     padding: 2.5em;
-    background: rgba(255,255,255,0.3);
+	background: rgba(255,255,255,0.2);
 }
 .form-style-w3ls span {
     font-size: 13px;
@@ -1258,7 +1258,7 @@ a.move-top span{
 		letter-spacing: 1px;
 	}
 	.banner {
-		background: url(/webrunstudio/sigpar/images/banner.jpg)no-repeat -230px 0px;
+		background: url(https://raw.githubusercontent.com/zetempesta/sigpar/master/images/banner.jpg)no-repeat -230px 0px;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
